@@ -1,0 +1,487 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getTags〔function〕"
+			],
+			[
+				"file",
+				"$fileName〔variable〕"
+			],
+			[
+				"dir",
+				"$dirName〔variable〕"
+			],
+			[
+				"getEx",
+				"getExampleName〔function〕"
+			],
+			[
+				"ma",
+				"matches"
+			],
+			[
+				"Pa",
+				"PayumBundle〔class〕"
+			],
+			[
+				"sli",
+				"slideDown〔function〕"
+			],
+			[
+				"jQuery",
+				"jQuery.each	jQuery.each"
+			],
+			[
+				"jQu",
+				"jQuery.post	jQuery.post"
+			],
+			[
+				"jq",
+				"jQuery.ajax	jQuery.ajax"
+			],
+			[
+				"trans",
+				"trans	trans"
+			],
+			[
+				"tran",
+				"trans	trans"
+			],
+			[
+				"ho",
+				"$hoho〔variable〕"
+			],
+			[
+				"fin",
+				"findAll"
+			],
+			[
+				"publi",
+				"$publication〔variable〕"
+			],
+			[
+				"publ",
+				"$publication〔variable〕"
+			],
+			[
+				"publicaion",
+				"$publication〔variable〕"
+			],
+			[
+				"echo",
+				"echo2"
+			],
+			[
+				"sf",
+				"sfsetflash	Symfony2 / Controller / Set Flash"
+			],
+			[
+				"f",
+				"fun	function …"
+			],
+			[
+				"function",
+				"create_function"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 222.0,
+		"last_filter": "xdebug",
+		"selected_items":
+		[
+			[
+				"xdebug",
+				"Xdebug: Stop Debugging (Close Windows)"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"removeP",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"key bi",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"symfony",
+				"Snippet: Symfony2 / Controller / Redirect"
+			],
+			[
+				"flash",
+				"Snippet: Symfony2 / Controller / Set Flash"
+			],
+			[
+				"Symfony Control",
+				"Snippet: Symfony2 / Controller / Controller class"
+			],
+			[
+				"functu",
+				"Snippet: Function Signature"
+			],
+			[
+				"html",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"get sessi",
+				"Snippet: Symfony2 / Controller / Get Session"
+			],
+			[
+				"set flash",
+				"Snippet: Symfony2 / Controller / Set Flash"
+			],
+			[
+				"twig for",
+				"Snippet: Twig : For"
+			],
+			[
+				"twig",
+				"Snippet: Twig : For"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Symfony form",
+				"Snippet: Symfony2 / Controller / Form Type"
+			],
+			[
+				"Symfony",
+				"Snippet: Symfony2 / Model / Integer column doc"
+			],
+			[
+				"submieLinter:",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"submieLinter:Enab",
+				"SublimeLinter: Enable Debug Mode"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/michal/Pulpit/hilfe",
+		"/home/michal/Pulpit/hilfe/examples",
+		"/home/michal/Pulpit/hilfe/src",
+		"/home/michal/Pulpit/hilfe/view"
+	],
+	"file_history":
+	[
+		"/home/michal/Pulpit/hilfe/view/index.html.twig",
+		"/home/michal/Pulpit/hilfe/src/App.php",
+		"/home/michal/Pulpit/hilfe/view/base.html.twig",
+		"/home/michal/Pulpit/hilfe/view/displayExample.html.twig",
+		"/home/michal/Pulpit/hilfe/src/FilePicker.php",
+		"/home/michal/Pulpit/hilfe/examples/SecondExample[jquery,javascript,yaml]/example.js",
+		"/home/michal/Pulpit/hilfe/src/entity/File.php",
+		"/home/michal/Pulpit/hilfe/src/entity/Example.php",
+		"/home/michal/Pulpit/pracuj3/src/Pxl/MainBundle/Entity/PaypalOrder.php",
+		"/home/michal/Pulpit/pracuj3/src/Pxl/MainBundle/Entity/PaymentToken.php",
+		"/home/michal/Pulpit/pracuj3/src/Pxl/MainBundle/Resources/config/routing.yml",
+		"/home/michal/Pulpit/pracuj3/composer.json",
+		"/home/michal/Pulpit/pracuj3/app/config/config.yml",
+		"/home/michal/Pulpit/pracuj3/src/Pxl/MainBundle/Resources/config/doctrine/PaypalOrder.yml",
+		"/home/michal/Pulpit/pracuj3/src/Pxl/MainBundle/Resources/config/doctrine/PaymentToken.yml",
+		"/home/michal/Pulpit/pracuj3/app/config/parameters.yml",
+		"/home/michal/Pulpit/js.js",
+		"/home/michal/Pulpit/pracuj3/src/Pxl/MainBundle/Controller/EmployeeController.php",
+		"/home/michal/.config/sublime-text-3/Packages/User/SFTP.errors.log",
+		"/home/michal/Pulpit/kat/plik2.html",
+		"/home/michal/Pulpit/kat/sftp-config.json",
+		"/home/michal/Pulpit/kat/test.html",
+		"/home/michal/Pulpit/pracuj3/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Request.php",
+		"/home/michal/Pulpit/pracuj3/src/Pxl/MainBundle/Controller/AdminController.php",
+		"/home/michal/Pulpit/pracuj3/src/Pxl/MainBundle/Entity/Ad.php",
+		"/home/michal/Pulpit/pracuj3/app/bootstrap.php.cache",
+		"/home/michal/Pulpit/pracuj3/app/Resources/views/base.html.twig",
+		"/home/michal/Pulpit/pracuj3/src/Pxl/MainBundle/Resources/translations/messages.pl.yml",
+		"/home/michal/Pulpit/pracuj3/vendor/jms/i18n-routing-bundle/JMS/I18nRoutingBundle/JMSI18nRoutingBundle.php",
+		"/home/michal/Pulpit/pracuj3/vendor/jms/i18n-routing-bundle/JMS/I18nRoutingBundle/DependencyInjection/Compiler/SetRouterPass.php",
+		"/home/michal/Pulpit/pracuj3/vendor/jms/translation-bundle/JMS/TranslationBundle/Controller/TranslateController.php",
+		"/home/michal/Pulpit/pracuj3/src/Pxl/MainBundle/Resources/translations/messages.en.yml",
+		"/home/michal/Pulpit/pracuj3/app/AppKernel.php",
+		"/home/michal/.config/sublime-text-3/Packages/User/SFTP.sublime-settings",
+		"/home/michal/Pulpit/pracuj3 (kopia)/app/config/parameters.yml",
+		"/home/michal/.config/sublime-text-3/Packages/User/composer-sublime.sublime-settings",
+		"/home/michal/.config/sublime-text-3/Packages/Composer/composer-sublime.sublime-settings",
+		"/home/michal/Pulpit/pracuj3/src/Pxl/MainBundle/Resources/translations/flash.en.yml",
+		"/home/michal/Pulpit/pracuj3/src/Pxl/MainBundle/Resources/translations/mails.pl.yml",
+		"/home/michal/Pulpit/pracuj3/src/Pxl/MainBundle/Resources/translations/flash.pl.yml",
+		"/home/michal/Pulpit/pracuj3/src/Pxl/MainBundle/Resources/views/Main/index.html.twig",
+		"/home/michal/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/michal/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/michal/Pulpit/pracuj3/.gitignore",
+		"/home/michal/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/michal/.config/sublime-text-3/Packages/User/Plain text.sublime-settings",
+		"/home/michal/Pulpit/pracuj3/web/app.php",
+		"/home/michal/Pulpit/pracuj3/web/app_dev.php",
+		"/home/michal/Pulpit/pracuj3/sftp-config.json",
+		"/home/michal/Pulpit/test.php",
+		"/home/michal/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/michal/.config/sublime-text-3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/home/michal/.config/sublime-text-3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/home/michal/Pulpit/pracuj3/vendor/symfony/symfony/src/Symfony/Component/Form/Form.php",
+		"/home/michal/Pulpit/kat/test.php",
+		"/home/michal/Pulpit/pracuj3/index.html",
+		"/home/michal/Pulpit/pracuj3/html.html",
+		"/home/michal/Pulpit/pracuj3/untitled.php",
+		"/home/michal/Pulpit/pracuj3/html.php",
+		"/home/michal/Pulpit/pracuj3/app/AppCache.php",
+		"/home/michal/Pulpit/pracuj3/pracuj3.sublime-project",
+		"/home/michal/Pulpit/pracuj3/src/Pxl/MainBundle/Controller/SettingsController.php",
+		"/home/michal/Pulpit/pracuj3/app/cache/dev/classes.php",
+		"/home/michal/Pulpit/pracuj3/src/Pxl/MainBundle/Controller/MainController.php",
+		"/home/michal/.config/sublime-text-3/Packages/CodeFormatter/CodeFormatter.sublime-settings",
+		"/home/michal/Pulpit/pracuj3/ftpsync.settings",
+		"/home/michal/Pulpit/pracuj3/src/Pxl/MainBundle/Resources/views/Main/fgdfg.html.twig",
+		"/home/michal/Pulpit/pracuj3/src/Pxl/MainBundle/Resources/views/Main/sftp-config.json",
+		"/home/michal/Pulpit/pracuj2/src/Pxl/MainBundle/Controller/SecurityController.php",
+		"/home/michal/Pulpit/pracuj2/src/Pxl/MainBundle/Resources/views/Employer/applyForServicePublication.html.twig",
+		"/home/michal/Pulpit/sprawdzacz.php",
+		"/home/michal/Pulpit/delete.me",
+		"/home/michal/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"example",
+			"examples",
+			"        $examples = scandir($this->path);\n\n        foreach ($examples as $key => $example)\n            if (in_array($example, [ '.', '..' ]))\n                unset($examples[$key]);\n\n        $example = new Example();\n\n        var_dump($examples); die;",
+			"examples",
+			"totalAmount",
+			"private",
+			"createRequestFromFactory",
+			"toggle_menu",
+			"auto_complete",
+			"główna234"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"protected"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.composer":
+	{
+		"height": 27.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 137.0
+	},
+	"output.xdebug":
+	{
+		"height": 85.0
+	},
+	"pinned_build_system": "",
+	"project": "hilfe.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"26":
+				{
+					"group": 0,
+					"index": 0
+				},
+				"27":
+				{
+					"group": 0,
+					"index": 1
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 353.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,9 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    {% for file in files %}
+        <h1>{{ file.name }} ({{ file.type }})</h1>
+        <pre><code class="language-{{ file.type }}">{{ file.code }}</code></pre>
+        <br />
+    {% endfor %}
+{% endblock %}

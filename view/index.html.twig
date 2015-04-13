@@ -1,0 +1,9 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    <ul>
+        {% for item in list %}
+            <li><a href="/hilfe/{{ item }}">{{ item }}</a></li>
+        {% endfor %}
+    </ul>
+{% endblock %}

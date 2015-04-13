@@ -1,0 +1,25 @@
+Pxl\MainBundle\Entity\User:
+    type: entity
+    table: null
+    id:
+        id:
+            type: integer
+            id: true
+            generator:
+                strategy: AUTO
+    oneToMany:
+        employerPublications:
+            targetEntity: EmployerPublication
+            mappedBy: user
+#    manyToMany:
+#        chosenEmployerPublications:
+#            targetEntity: EmployerPublication
+#            inversedBy: users
+#            joinTable:
+#                name: ConUserEmployerPublication
+#                joinColumns:
+#                    user_id:
+#                        referencedColumnName: id
+#                inverseJoinColumns:
+#                    employer_publication_id:
+#                        referencedColumnName: id

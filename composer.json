@@ -1,0 +1,9 @@
+{
+    "require": {
+        "twig/twig": "*",
+        "klein/klein": "*"
+    },
+    "autoload": {
+        "psr-4": { "Hilfe\\": "src/" }
+    }
+}

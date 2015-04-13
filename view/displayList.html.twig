@@ -1,0 +1,11 @@
+{% extends 'base.html.twig' %}
+
+{% block title 'Pliki dot. ' ~ language|upper %}
+
+{% block body %}
+    <ul>
+        {% for item in list %}
+            <li><a href="/hilfe/list/{{ language }}/{{ item }}">{{ item }}</a></li>
+        {% endfor %}
+    </ul>
+{% endblock %}
