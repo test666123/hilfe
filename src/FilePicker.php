@@ -16,6 +16,7 @@ class FilePicker
         $this->allDirectories = scandir($this->path);
     }
 
+	/* new comment */
     public function getExample($dirName)
     {
         $selectedDir = false;
